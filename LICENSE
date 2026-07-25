@@ -1,0 +1,41 @@
+Cit Non-Commercial Attribution License v1.0
+
+Copyright (c) 2026 Daniel Mehringer (Yenoyosh)
+
+Permission is hereby granted to any person obtaining a copy of this software
+and associated documentation files (the "Software") to use, study, modify,
+and share the Software, subject to all of the following conditions:
+
+1. Attribution
+   You must give appropriate credit to Christoph Mehringer as the original
+   author of Cit. This notice and this license must be included in all copies
+   or substantial portions of the Software.
+
+2. Non-commercial use only
+   You may not sell, rent, sublicense, host for money, include in paid products,
+   or otherwise commercially exploit the Software or modified versions of it
+   without prior written permission from the original author.
+
+3. Modified versions
+   You may modify the Software and share modified versions only if the modified
+   version is clearly marked as modified and does not pretend to be an official
+   unmodified Cit release.
+
+4. Security notices
+   You may not remove or hide security warnings, license information,
+   copyright notices, project-id warnings, or liability disclaimers from shared
+   copies or modified versions.
+
+5. No warranty and no liability
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+   THE AUTHOR IS NOT LIABLE FOR ANY CLAIM, DAMAGE, DATA LOSS, PROJECT LOSS,
+   BROKEN FILES, BROKEN PYTHON INSTALLATIONS, NETWORK PROBLEMS, OPERATING
+   SYSTEM PROBLEMS, HARDWARE/PC DAMAGE, SECURITY ISSUES, OR OTHER LIABILITY,
+   WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF,
+   OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+By using, modifying, or sharing Cit, you accept this license.

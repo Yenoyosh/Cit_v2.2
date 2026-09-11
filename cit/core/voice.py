@@ -22,7 +22,7 @@ STATE_RINGING = "ringing"
 STATE_CALL = "call"
 
 class VoiceClient:
-    """LAN voice module adapted from the user's lan_caller.py.
+    """
 
     UDP signaling and raw int16 mono UDP audio. Intended for trusted LAN use.
     """
